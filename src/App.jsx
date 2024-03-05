@@ -1,18 +1,14 @@
 import './App.css'
-import CartWidget from './components/CartWidget.jsx'
 import NavBar from './components/NavBar.jsx'
+import ItemListContainer from './components/ItemListContainer.jsx'
 
 function App () {
 
 
   return (
     <>
-
-    <div className='navContainer'>
     <NavBar />
-
-    <CartWidget />
-    </div>
+    <ItemListContainer greeting='productos a la venta' />
     </>
   )
 }

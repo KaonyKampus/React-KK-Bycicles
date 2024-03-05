@@ -1,4 +1,6 @@
 import ButtonComponent from "./ButtonComponent.jsx"
+import CartWidget from "./CartWidget.jsx"
+import '../navbar.css'
 
 export default function NavBar (){
 
@@ -20,6 +22,7 @@ export default function NavBar (){
 
     return(
         <>
+          <section className="navBarContainer">
            <ButtonComponent
              texto={characteristics[0].texto}
              color={characteristics[0].color}  
@@ -31,7 +34,9 @@ export default function NavBar (){
            <ButtonComponent
              texto={characteristics[2].texto}
              color={characteristics[2].color}  
-           />
+            /> 
+           <CartWidget />
+           </section>
         </>
     )
 }

@@ -1,11 +1,11 @@
 .buttonNav {
-    border: 0;
     border-radius: 5px;
-    width: 100px;
-    padding: 10px;
-    color: aliceblue;
+    width: 70px;
+    height: 60px;
+    color: beige;
+  
 }
 
 .image1{
-    width: 50px;
+    width: 40px;
 }

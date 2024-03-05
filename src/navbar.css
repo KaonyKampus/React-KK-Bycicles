@@ -1,0 +1,11 @@
+.navBarContainer {
+    padding: 5px 10px 5px 10px;
+    flex-wrap: wrap;
+    position: fixed;
+    top: 0;
+    display: flex;
+    background-color: aliceblue;
+    gap: 5px;
+    width: 100%;
+    justify-content: right;
+}
