@@ -6,8 +6,8 @@ export default function CartWidget(){
     return(
         <>
         <div className='carContainer'>
-        <img src={carrito} alt="" className='image1'/>
         <p>#1</p>
+        <img src={carrito} alt="" className='image1'/>
         </div>
         </>
     )

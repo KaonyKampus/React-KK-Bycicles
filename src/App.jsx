@@ -10,7 +10,7 @@ function App () {
     <>
     <NavBar />
 
-    <ItemListContainer greeting="Productos a la venta"/>
+    <ItemListContainer greeting="Bienvenidos"/>
     
     </>
   )

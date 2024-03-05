@@ -6,16 +6,16 @@ export default function NavBar (){
 
     const characteristics = [
         {
-            color:'red',
+            color:'gray',
             texto:'productos',
 
         },
         {
-            color:'blue',
+            color:'gray',
             texto:'nosotros',
         },
         {
-            color:'green',
+            color:'gray',
             texto:'contacto',
         },
     ]
