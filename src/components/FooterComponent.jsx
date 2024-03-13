@@ -45,7 +45,7 @@ export default function FooterComponent () {
            <div className="img-box">
                <p>¡Sigueme en las redes sociales!</p>
            </div>
-            <p className="paragrap-foot">KK 2024 – Todos los Derechos Reservados ® – Kaony Kampus</p>
+            <p className="paragrap-foot">KK-Bicycles 2024 – Todos los Derechos Reservados ® – Kaony Kampus</p>
             </footer>    
 
             </>
