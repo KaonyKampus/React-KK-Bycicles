@@ -1,0 +1,35 @@
+footer{
+    margin: 0px 80px 5px 80px;
+    background-color:  rgba(0, 0, 0, 0.315);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-align: center;
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    color: aliceblue;
+    bottom: 0;
+}
+
+.paragrap-foot{
+    text-align: center;
+    padding:20px 20px 20px 20px;
+
+}
+
+.img-box {
+ display: flex;
+ justify-content: center;
+ gap: 30px;
+ padding: 10px;
+}
+
+.icon{
+    width: 40px;
+    transition: transform 0.3s ease-in-out
+}
+
+.icon:hover{
+    transform: translate(10px, 10px);
+}

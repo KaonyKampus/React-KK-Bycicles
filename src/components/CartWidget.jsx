@@ -1,13 +1,12 @@
-import '../buton.css'
-import carrito from '../assets/carrito.png'
-
+import '../carWidget.css'
+import carrito from '../assets/carrito.jpg'
 
 export default function CartWidget(){
     return(
         <>
-        <div className='carContainer'>
-        <p>#1</p>
-        <img src={carrito} alt="" className='image1'/>
+        <div className='car-box'>
+        <img src={carrito} alt="" className='car-img'/>
+        <span className="car-number">0</span>
         </div>
         </>
     )

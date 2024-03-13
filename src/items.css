@@ -1,5 +1,7 @@
 .itemsContainer {
-    margin-top: 100px;
     text-align: center;
-    color: antiquewhite;
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 10px;
+
 }

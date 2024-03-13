@@ -1,0 +1,24 @@
+.car-box {
+    position: relative;
+    display: flex;
+    left: 200px;
+    justify-content: center;
+    float: right;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    align-items: center;
+    padding-bottom: 10px;
+    background-color: aliceblue;
+}
+
+.car-number{
+    font-weight: 100;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.car-img{
+    width: 30px;
+    height: 30px;
+
+}

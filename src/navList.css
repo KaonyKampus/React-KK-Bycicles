@@ -1,0 +1,38 @@
+.nav-list {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    list-style: none;
+    color: black;
+    align-items: center;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.item-box{
+    border-top-left-radius:10px ;
+    border-top-right-radius: 10px;
+}
+
+.items{
+    padding: 10px;
+    font-family: "Philosopher", sans-serif;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 18px;
+    color: black;
+    border-top-left-radius:10px ;
+    border-top-right-radius: 10px;
+}
+    
+
+.seleccion {
+    background-color: aliceblue;
+}
+
+.button-list{
+    text-decoration: none;
+}
