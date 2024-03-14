@@ -31,6 +31,7 @@ const BicicletasMontana = [
     {id: 100011, nombre:"Bicicleta Montana 11", precio:2000000, imagen:"./assets/card-images/montana11.jpg"},
     {id: 100012, nombre:"Bicicleta Montana 12", precio:2000000, imagen:"./assets/card-images/montana12.jpg"},
     {id: 100013, nombre:"Bicicleta Montana 13", precio:2000000, imagen:"./assets/card-images/montana13.jpg"},
+
 ]
 
 
@@ -45,19 +46,19 @@ const BicicletasGravel = [
     {id: 200007, nombre:"Bicicleta Gravel 7", precio:2000000, imagen:"./assets/card-images/montana7.jpg"},
 ]
 
-const BicicletaMontana = [
+const Accesorios = [
 
-    {id: 100001, nombre:"Bicicleta Montana 1", precio:2000000, imagen:"./assets/card-images/montana1.jpg"},
-    {id: 100002, nombre:"Bicicleta Montana 2", precio:2000000, imagen:"./assets/card-images/montana2.jpg"},
-    {id: 100003, nombre:"Bicicleta Montana 3", precio:2000000, imagen:"./assets/card-images/montana3.jpg"},
-    {id: 100004, nombre:"Bicicleta Montana 4", precio:2000000, imagen:"./assets/card-images/montana4.jpg"},
-    {id: 100005, nombre:"Bicicleta Montana 5", precio:2000000, imagen:"./assets/card-images/montana5.jpg"},
-    {id: 100006, nombre:"Bicicleta Montana 6", precio:2000000, imagen:"./assets/card-images/montana6.jpg"},
-    {id: 100007, nombre:"Bicicleta Montana 7", precio:2000000, imagen:"./assets/card-images/montana7.jpg"},
-    {id: 100008, nombre:"Bicicleta Montana 8", precio:2000000, imagen:"./assets/card-images/montana8.jpg"},
-    {id: 100009, nombre:"Bicicleta Montana 9", precio:2000000, imagen:"./assets/card-images/montana9.jpg"},
-    {id: 100010, nombre:"Bicicleta Montana 10", precio:2000000, imagen:"./assets/card-images/montana10.jpg"},
-
+    {id: 300001, nombre:"Accesorio 1", precio:2000000, imagen:"./assets/card-images/accesorio1.jpg"},
+    {id: 300002, nombre:"Accesorio 2", precio:2000000, imagen:"./assets/card-images/accesorio2.jpg"},
+    {id: 300003, nombre:"Accesorio 3", precio:2000000, imagen:"./assets/card-images/accesorio3.jpg"},
+    {id: 300004, nombre:"Accesorio 4", precio:2000000, imagen:"./assets/card-images/accesorio4.jpg"},
+    {id: 300005, nombre:"Accesorio 5", precio:2000000, imagen:"./assets/card-images/accesorio5.jpg"},
+    {id: 300006, nombre:"Accesorio 6", precio:2000000, imagen:"./assets/card-images/accesorio6.jpg"},
+    {id: 300007, nombre:"Accesorio 7", precio:2000000, imagen:"./assets/card-images/accesorio7.jpg"},
+    {id: 300008, nombre:"Accesorio 8", precio:2000000, imagen:"./assets/card-images/accesorio8.jpg"},
+    {id: 300009, nombre:"Accesorio 9", precio:2000000, imagen:"./assets/card-images/accesorio9.jpg"},
+    {id: 300010, nombre:"Accesorio 10", precio:2000000, imagen:"./assets/card-images/accesorio10.jpg"},
+    
 ]
 
 
