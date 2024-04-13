@@ -1,7 +1,11 @@
 import '../carWidget.css'
 import carrito from '../assets/carrito.jpg'
 
+
 export default function CartWidget(){
+
+
+
     return(
         <>
         <div className='car-box'>
